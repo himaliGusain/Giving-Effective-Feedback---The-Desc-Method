@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_61sdwifx5qd" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Giving feedback: The DESC Framework</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">Giving feedback can be challenging, but the right structure makes it easier. This course introduces the DESC model, a practical framework to help you deliver clear, constructive, and actionable feedback.
+
+Through scenario-based interactions and practice activities, you will learn how to handle real workplace situations and improve your communication skills.</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Giving_feedback:_The_DESC_Framework_ORG">
+    <organization identifier="Giving_feedback:_The_DESC_Framework_ORG">
+      <title>Giving feedback: The DESC Framework</title>
+      <item identifier="Giving_feedback_SCO" isvisible="true" identifierref="__61sdwifx5qd_RES">
+        <title>Giving feedback: The DESC Framework</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__61sdwifx5qd_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6rXnV0B05KO_P_134_40_1860_1054.jpg" />
+      <file href="story_content/6WA2A9lZNTT_44100_48_0.mp3" />
+      <file href="story_content/5yi65rdVH8q_captions.js" />
+      <file href="story_content/6NkjTqoGmBB_44100_48_0.mp3" />
+      <file href="story_content/69nv7e09X7S_captions.js" />
+      <file href="mobile/5iTrsuLfvUf.png" />
+      <file href="story_content/6PgNMxTtTSX_44100_48_0.mp3" />
+      <file href="story_content/6LTV0TVg2nU_captions.js" />
+      <file href="story_content/5WTtd2vL4Eu_44100_48_0.mp3" />
+      <file href="story_content/60v8cXgxzmm_captions.js" />
+      <file href="story_content/6T1w4uPKwkf_44100_48_0.mp3" />
+      <file href="story_content/6l0GqhqmnTz_captions.js" />
+      <file href="story_content/5tqrGJfNXCi_44100_48_0.mp3" />
+      <file href="story_content/6mvkHnJFyvU_captions.js" />
+      <file href="story_content/6CXPAYjbZh0_44100_48_0.mp3" />
+      <file href="story_content/6octeXS7cx5_captions.js" />
+      <file href="story_content/5gh2gZifGiW_44100_48_0.mp3" />
+      <file href="story_content/6bRHXsnC3rR_captions.js" />
+      <file href="story_content/6FIrRDNbw0h_44100_48_0.mp3" />
+      <file href="story_content/5jfhnXXLIEg_captions.js" />
+      <file href="story_content/6Nk6NRpEaVx_44100_48_0.mp3" />
+      <file href="story_content/6VSGMhAz84E_captions.js" />
+      <file href="story_content/6FK2610RIBI_44100_48_0.mp3" />
+      <file href="story_content/6gMI1pzDv8H_captions.js" />
+      <file href="story_content/6Nenf5grWW0_44100_48_0.mp3" />
+      <file href="story_content/5z35YQcwRrT_captions.js" />
+      <file href="story_content/6Ol7TU4OiDR_44100_48_0.mp3" />
+      <file href="story_content/66tPZC0jvTU_captions.js" />
+      <file href="story_content/6rJtf59NRE3_44100_48_0.mp3" />
+      <file href="story_content/6puQWWBT839_captions.js" />
+      <file href="story_content/5yVYAY8YXGn_44100_48_0.mp3" />
+      <file href="story_content/5f7uyjYHD3y_captions.js" />
+      <file href="story_content/6p0IiIBb3an_44100_48_0.mp3" />
+      <file href="story_content/6kUv0NmEBYS_captions.js" />
+      <file href="mobile/5fvNcjiOSHk_P_637_14_785_771.png" />
+      <file href="mobile/6h35szwzE9n_P_515_23_1054_1038.png" />
+      <file href="story_content/5iaPkSVKWjI_44100_48_0.mp3" />
+      <file href="story_content/6iu02AjdVRn_captions.js" />
+      <file href="story_content/5tqmTl441U9_44100_48_0.mp3" />
+      <file href="story_content/5WMPbvfUJFz_captions.js" />
+      <file href="story_content/6POtgwCLwsN_44100_48_0.mp3" />
+      <file href="story_content/5ihQ70G925f_captions.js" />
+      <file href="story_content/6Rv5GFCXWZv_44100_48_0.mp3" />
+      <file href="story_content/6kVH4JhjPkr_captions.js" />
+      <file href="story_content/6TcqZdJqv5m_44100_48_0.mp3" />
+      <file href="story_content/5plYOzP8zRE_captions.js" />
+      <file href="story_content/5n5cOsZPGXX_44100_48_0.mp3" />
+      <file href="story_content/5pKuGtLEg0f_captions.js" />
+      <file href="mobile/6fGmApG3Vyx_P_632_-17_801_1142.png" />
+      <file href="mobile/5ZFjdS3L0ny_P_623_0_887_1117.png" />
+      <file href="story_content/6kB1SsPe9Q5_44100_48_0.mp3" />
+      <file href="story_content/5bOLxfn1gxr_captions.js" />
+      <file href="story_content/6EqdspHVK3i_44100_48_0.mp3" />
+      <file href="story_content/64qVM12psVW_captions.js" />
+      <file href="story_content/6X5P4AnJGFN_44100_48_0.mp3" />
+      <file href="story_content/5dG13OCFA5D_captions.js" />
+      <file href="story_content/5w74ZQwzl0w_44100_48_0.mp3" />
+      <file href="story_content/60JBMIXFE0V_captions.js" />
+      <file href="story_content/6CP6xCqzWb7_44100_48_0.mp3" />
+      <file href="story_content/6GAwC74lQCQ_captions.js" />
+      <file href="story_content/6UvMuQHAJN7_captions.js" />
+      <file href="story_content/6SGuMbmuno4_44100_48_0.mp3" />
+      <file href="story_content/6fYZqJbkp1x_captions.js" />
+      <file href="story_content/6oZDITiBcJb_44100_48_0.mp3" />
+      <file href="story_content/6qD24n6Quk7_captions.js" />
+      <file href="story_content/68McCe9FQmK_44100_48_0.mp3" />
+      <file href="story_content/5V3WGbmBNmS_captions.js" />
+      <file href="story_content/5Zau2hShcKj_44100_48_0.mp3" />
+      <file href="story_content/65iJXmRtn3B_captions.js" />
+      <file href="story_content/69ZlmJD8Qe4_44100_48_0.mp3" />
+      <file href="story_content/5x7IsrfZ1IJ_captions.js" />
+      <file href="story_content/5YnQysoa7Vp_44100_48_0.mp3" />
+      <file href="story_content/6N10EmKenQH_captions.js" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_5oXpeOu1t2g.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5jdclimZ7FI.js" />
+      <file href="html5/data/js/5nnFrhDoX53.js" />
+      <file href="html5/data/js/5nQwpCZ5ue0.js" />
+      <file href="html5/data/js/5pSsM9tHRLX.js" />
+      <file href="html5/data/js/63Pqw7MdRoD.js" />
+      <file href="html5/data/js/6aoTXwsYl2u.js" />
+      <file href="html5/data/js/6bpxoIq5QHV.js" />
+      <file href="html5/data/js/6iV1fJ7Ijho.js" />
+      <file href="html5/data/js/6lWSPZrAYEm.js" />
+      <file href="html5/data/js/6owKWYqnhem.js" />
+      <file href="html5/data/js/6qo23vmUE6t.js" />
+      <file href="html5/data/js/6qSV7EDubLY.js" />
+      <file href="html5/data/js/6Vdt0BzUTyt.js" />
+      <file href="html5/data/js/6X0yE0roDgP.js" />
+      <file href="html5/data/js/6ZGwFbXG1QO.js" />
+      <file href="html5/data/js/6ZQqgWqj2pb.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
